@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on the Unicorn Platform, it's website-builder for startups.
+I'm currently working on [the Unicorn Platform](https://unicornplatform.com/), a website builder for startups.
