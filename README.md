@@ -32,7 +32,12 @@ Experience:
 
 etc.
 
-### 🔗 Links
+### Pet-projects
+- [Frontend notebook](https://artemshar.github.io/frontend-book/)
+- [VOCA!](https://artemshar.github.io/voca/) - Word Cards for English. Minimalistic and server-less (the data is stored in Browser). With links to Cambridge Dic / YouGlish / Unsplash
+- [City Runner 3021](https://cityrunner3021.vercel.app/) - Just some kind of project run, because I love running ^_^
+
+### 🔗 Contact Links
 - [Telegram](https://t.me/artemshar)
 - [Linkedin](https://www.linkedin.com/in/artemshar/)
 - artem.ude@gmail.com
