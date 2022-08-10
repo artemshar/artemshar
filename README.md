@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Web / Frontend developer. 
+I'm Web / Frontend developer since 2016. 
 I’m currently working on my pet-projects, and I'm open for a new job.
 
 Experience:
@@ -30,7 +30,7 @@ Experience:
 
 👔 Helped develop a web-project for evaluating consultants of [the Emergn company](https://www.emergn.com/)
 
-- etc.
+etc.
 
 ### 🔗 Links
 - [Telegram](https://t.me/artemshar)
