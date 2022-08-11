@@ -20,7 +20,7 @@ I’m currently working on my pet-projects, and I'm open for a new job.
 
 Experience:
 
-🎙️ Worked in [the Clay](https://clay.global/), is design agency. Helped to make a corporate website of a large holding company in the US. Worked on documentation of internal JavaScript/React library.
+🎙️ Worked in [the Clay](https://clay.global/), is design agency. Helped to make a corporate website of a large holding company in the US. Worked on documentation of internal TypeScript/React library.
 
 🦄 Developed [the Blogs functionality](https://www.producthunt.com/posts/blogs-by-unicorn-platform) for [the Unicorn Platform](https://unicornplatform.com/) website builder. Also, form integration with Google Sheets, templates functionality and motivated the founder 🦾
 
