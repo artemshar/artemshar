@@ -20,26 +20,25 @@ I’m currently working on my pet-projects, and I'm open for a new job.
 
 Experience:
 
-🎙️ Worked in [the Clay](https://clay.global/), is design agency. Helped to make a corporate website of a large holding company in the US. Worked on documentation of internal TypeScript/React library.
-
-🦄 Developed [the Blogs functionality](https://www.producthunt.com/posts/blogs-by-unicorn-platform) for [the Unicorn Platform](https://unicornplatform.com/) website builder. Also, form integration with Google Sheets, templates functionality and motivated the founder 🦾
-
-📈 Rewriting UI of the investment platform [Mercer Insight](https://www.mercerinsight.com) from Flash to Vue.js
-
+- 🎨 Worked in [the Clay](https://clay.global/), is design agency. Helped to make a corporate website of a large holding company in the US. Worked on documentation of internal TypeScript/React library with Storybook.
+- 🦄 Developed [the Blogs functionality](https://www.producthunt.com/posts/blogs-by-unicorn-platform) for [the Unicorn Platform](https://unicornplatform.com/) website builder. Also worked on form integration with Google Sheets for end-users, worked on templates functionality.
+- 📈 Rewriting UI of the investment platform [Mercer Insight](https://www.mercerinsight.com) from Flash to Vue.js
 🛩️ Created it a new travel web-project of [the Hotelplan company](https://www.hotelplan.ch/) - frontend application from scratch and was responsible for the design in my development team. And also supported UI of other projects of the company. 
+- 👔 Helped develop a web-project for evaluating consultants of [the Emergn company](https://www.emergn.com/)
 
-👔 Helped develop a web-project for evaluating consultants of [the Emergn company](https://www.emergn.com/)
+And others, the full experience can be seen on [Linkedin](https://www.linkedin.com/in/artemshar/)
 
-etc.
+- In the past, a 📽️ projectionist, 🎹 musician in the genres of idm, drumfunk. 
+- I like to run 🏃🏼.
 
 ### Pet-projects
 - [Frontend notebook](https://artemshar.github.io/frontend-book/)
 - [VOCA!](https://artemshar.github.io/voca/) - Word Cards for English. Minimalistic and server-less (the data is stored in Browser). With links to Cambridge Dic / YouGlish / Unsplash
 - [City Runner 3021](https://cityrunner3021.vercel.app/) - Just some kind of project run, because I love running ^_^
 
-### 🔗 Contact Links
-- [Telegram](https://t.me/artemshar)
+### 🔗 Contact
 - [Linkedin](https://www.linkedin.com/in/artemshar/)
+- [Telegram](https://t.me/artemshar)
 - artem.ude@gmail.com
 
 
