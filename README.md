@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Web / Frontend developer since 2016. 
-I’m currently working on my pet-projects, and I'm open for a new job.
+Currently, I do some things in my 'garage' and I'm open for a new commercial project.
 
 Experience:
 
