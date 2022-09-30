@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Web / Frontend developer since 2016. 
-Currently, I do some things in my 'garage' and I'm open for a new commercial project.
+I'm Web / Frontend developer since 2016.
 
 Experience:
 
