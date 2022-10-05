@@ -31,8 +31,8 @@ And others, the full experience can be seen on [Linkedin](https://www.linkedin.c
 - I like to run 🏃🏼.
 
 ### Pet-projects
+- [VOCA!](https://voca.vercel.app/) - an app that will help you to improve your English vocabulary. Minimalistic and server-less (the data is stored in Browser). With links to Cambridge Dic / YouGlish / Google images
 - [Frontend notebook](https://artemshar.github.io/frontend-book/)
-- [VOCA!](https://artemshar.github.io/voca/) - Word Cards for English. Minimalistic and server-less (the data is stored in Browser). With links to Cambridge Dic / YouGlish / Unsplash
 - [City Runner 3021](https://cityrunner3021.vercel.app/) - Just some kind of project run, because I love running ^_^
 
 ### 🔗 Contact
