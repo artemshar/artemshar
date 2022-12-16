@@ -27,13 +27,11 @@ Experience:
 
 And others, the full experience can be seen on [Linkedin](https://www.linkedin.com/in/artemshar/)
 
-- In the past, a 📽️ projectionist, 🎹 musician in the genres of idm, drumfunk. 
-- I like to run 🏃🏼.
+- In the past, a 📽️ cinema projectionist and 🎹 electronic musician
 
 ### Pet-projects
-- [VOCA!](https://voca.vercel.app/) - an app that will help you to improve your English vocabulary. Minimalistic and server-less (the data is stored in Browser). With links to Cambridge Dic / YouGlish / Google images
+- [VOCA!](https://vocaboard.com/) - an app that will help you to improve your English vocabulary. Minimalistic and server-less (the data is stored in Browser).
 - [Frontend notebook](https://artemshar.github.io/frontend-book/)
-- [City Runner 3021](https://cityrunner3021.vercel.app/) - Just some kind of project run, because I love running ^_^
 
 ### 🔗 Contact
 - [Linkedin](https://www.linkedin.com/in/artemshar/)
