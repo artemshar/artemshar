@@ -30,8 +30,9 @@ And others, the full experience can be seen on [Linkedin](https://www.linkedin.c
 - In the past, a 📽️ cinema projectionist and 🎹 electronic musician
 
 ### Pet-projects
-- [VOCA!](https://vocaboard.com/) - an app that will help you to improve your English vocabulary. Minimalistic and server-less (the data is stored in Browser).
-- [Frontend notebook](https://artemshar.github.io/frontend-book/)
+- [The VOCA!](https://vocaboard.com/) - An app that will help you to improve your English vocabulary. Minimalistic and server-less (for the time being the data is stored in Browser).
+- [Frontend notebook](https://artemshar.github.io/frontend-book/) - Personal public notebook about Web Dev, built with love to Vue.js
+- [The Musicres](https://musicres.com/) - Someday your favourite music will be in your hands again...
 
 ### 🔗 Contact
 - [Linkedin](https://www.linkedin.com/in/artemshar/)
