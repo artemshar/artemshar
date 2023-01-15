@@ -1,6 +1,8 @@
-### About
+## About
 
 Identify myself as Product / Front end developer and engineer, passionate about problem solving, no-code tools, productivity tools, remote working, education industry, work-life balance, running and music!
+
+### Experience
 
 - 🙋🏻‍♂️ Mentor in the **[Solvery.io](https://solvery.io/en)**
 - 👀 **[Oken.Tech](https://oken.tech/)**, worked on refactoring Chrome Extansion App, implementation of new functionality and an analytics tool
@@ -13,7 +15,8 @@ Identify myself as Product / Front end developer and engineer, passionate about 
 
 And others, the full experience can be seen on [Linkedin](https://www.linkedin.com/in/artemshar/)
 
-### 🔗 Contact
+### 🔗 Contacts
+- [https://artemshar.space](https://artemshar.space/)
 - [Linkedin](https://www.linkedin.com/in/artemshar/)
 - [Telegram](https://t.me/artemshar)
 - artem.ude@gmail.com
