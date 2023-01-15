@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Web / Frontend developer since 2016.
-
 Experience:
 
+- 🙋🏻‍♂️ Mentor at the Solvery.io
 - 🎨 Worked in the new development department of [Clay](https://clay.global/), is design agency. Helped to make a corporate website to the large holding company in US. Worked on documentation of internal library with Storybook.
 - 🦄 Developed [the Blogs functionality](https://www.producthunt.com/posts/blogs-by-unicorn-platform) for [the Unicorn Platform](https://unicornplatform.com/) website builder. Also worked on form integration with Google Sheets for end-users, worked on templates functionality.
 - 📈 Rewriting UI of the investment platform [Mercer Insight](https://www.mercerinsight.com) from Flash to Vue.js
@@ -26,8 +25,6 @@ Experience:
 - 👔 Helped develop a web-project for evaluating consultants of [the Emergn company](https://www.emergn.com/)
 
 And others, the full experience can be seen on [Linkedin](https://www.linkedin.com/in/artemshar/)
-
-- In the past, a 📽️ cinema projectionist and 🎹 electronic musician
 
 ### Pet-projects
 - [The VOCA!](https://vocaboard.com/) - An app that will help you to improve your English vocabulary. Minimalistic and server-less (for the time being the data is stored in Browser).
