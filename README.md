@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Experience:
-
 - 🙋🏻‍♂️ Mentor at the Solvery.io
 - 🎨 Worked in the new development department of [Clay](https://clay.global/), is design agency. Helped to make a corporate website to the large holding company in US. Worked on documentation of internal library with Storybook.
 - 🦄 Developed [the Blogs functionality](https://www.producthunt.com/posts/blogs-by-unicorn-platform) for [the Unicorn Platform](https://unicornplatform.com/) website builder. Also worked on form integration with Google Sheets for end-users, worked on templates functionality.
