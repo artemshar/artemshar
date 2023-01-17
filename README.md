@@ -1,6 +1,6 @@
 ## About
 
-Identify myself as Product / Front end developer and engineer, passionate about problem solving, no-code tools, productivity tools, remote working, education industry, work-life balance, running and music!
+I'm Product / Front end developer and engineer, passionate about problem solving, no-code tools, productivity tools, remote working, education industry, work-life balance, running and music!
 
 ### Experience
 
