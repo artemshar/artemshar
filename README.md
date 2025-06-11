@@ -5,6 +5,8 @@ Now:
 - Developer of [Vocaboard](https://vocaboard.com/), R&D in learning languages tools
 
 Experience:
+  - Developer at [Lexicon Labs AI](https://www.lexiconlabs.ai/en/) (2025)
+  - Developer at [Nocodered](https://nocodered.ru/en/) (2024)
   - Developer at [Clay Global](https://clay.global/) - design agency (2021 - 2022)
   - Developer at [Unicorn Platform](https://unicornplatform.com/) - fantastic website builder (2020 - 2021)
   - Developer at [Emergn](https://www.emergn.com/) - IT/consulting company (2018 - 2020)
