@@ -2,7 +2,6 @@
 
 Now:
 - Since 2023: Self-employed Full-Stack Developer (Frontend + Node.js Backend) / contractor 👋📬 - [Telegram](https://t.me/artemshar) / artem.ude@gmail.com
-- Developer of [Vocaboard](https://vocaboard.com/), R&D in learning languages tools
 
 Experience:
   - Developer at [Lexicon Labs AI](https://www.lexiconlabs.ai/en/) (2025)
