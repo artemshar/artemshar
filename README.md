@@ -7,7 +7,7 @@ Experience & Companies:
   - 2026: Built a project in Hospitality & PropTech (B2B contract)
   - 2025: [Lexicon Labs AI](https://www.lexiconlabs.ai/en/) - Frontend developer in small team, developed LLM-powered PWA for the food industry (B2B contract)
   - 2024: [Nocodered](https://nocodered.ru/en/) - Full-Stack developer at small web studio based in Moscow (hourly work, freelance)
-  - 2022: Oken Tech - eye-tracking startup
+  - 2022: Frontend Developer in Oken Tech - eye-tracking startup
   - 2021 - 2022: [Clay Global](https://clay.global/) - Frontend developer
   - 2020 - 2021: Worked with founder on [Unicorn Platform](https://unicornplatform.com/) - the website builder for startups
   - 2018 - 2020: [Emergn](https://www.emergn.com/) - Frontend developer at outsource / outstaff company based in Saint-Petersburg
