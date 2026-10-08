@@ -1,17 +1,21 @@
 ## About
 
 Now:
-- Since 2023: Self-employed Full-Stack Developer (Frontend + Node.js Backend) / contractor 👋📬 - [Telegram](https://t.me/artemshar) / artem.ude@gmail.com
+- Self-employed Full-Stack Developer (Frontend + Node.js Backend) / contractor 👋📬 - [Telegram](https://t.me/artemshar) / artem.ude@gmail.com
 
-Experience:
-  - Developer at [Lexicon Labs AI](https://www.lexiconlabs.ai/en/) (2025)
-  - Developer at [Nocodered](https://nocodered.ru/en/) (2024)
-  - Developer at [Clay Global](https://clay.global/) - design agency (2021 - 2022)
-  - Developer at [Unicorn Platform](https://unicornplatform.com/) - fantastic website builder (2020 - 2021)
-  - Developer at [Emergn](https://www.emergn.com/) - IT/consulting company (2018 - 2020)
-  - Game Developer - Pixi.js, Unity-like editors (2018, 2023)
-  - Cinema Projectionist 📽️ (2013 - 2015)
-  - Electronic musician 🎹 (2008 - 2010)
+Experience & Companies:
+  - 2026: Built a project in Hospitality & PropTech (B2B contract)
+  - 2025: [Lexicon Labs AI](https://www.lexiconlabs.ai/en/) - Frontend developer in small team, developed LLM-powered PWA for the food industry (B2B contract)
+  - 2024: [Nocodered](https://nocodered.ru/en/) - Full-Stack developer at small web studio based in Moscow (hourly work, freelance)
+  - 2022: Oken Tech - eye-tracking startup
+  - 2021 - 2022: [Clay Global](https://clay.global/) - Frontend developer
+  - 2020 - 2021: Worked with founder on [Unicorn Platform](https://unicornplatform.com/) - the website builder for startups
+  - 2018 - 2020: [Emergn](https://www.emergn.com/) - Frontend developer at outsource / outstaff company based in Saint-Petersburg
+  - 2018, 2023: Game / Frontend Developer
+  - Since 2016: Frontend / Full-Stack Developer 
+  - 2014 - 2017: Bachelor of Business Informatics 🎓
+  - 2013 - 2015: Cinema Projectionist 📽️
+  - 2008 - 2010: Electronic musician 🎹
 
 The full experience can be seen on [Linkedin](https://www.linkedin.com/in/artemshar/).
 
