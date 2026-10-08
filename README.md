@@ -15,9 +15,9 @@ Experience & Companies:
   - Since 2016: Frontend / Full-Stack Developer 
   - 2014 - 2017: Bachelor of Business Informatics 🎓
   - 2013 - 2015: Cinema Projectionist 📽️
-  - 2008 - 2010: Electronic musician 🎹
+  - 2008 - 2010: Electronic musician 🎹 Nick names: [Diligens](https://soundcloud.com/diligens/diligens-80-km-till-2009-mix), [2Katz](https://soundcloud.com/city-runner-3021)
 
-The full experience can be seen on [Linkedin](https://www.linkedin.com/in/artemshar/).
+The full experience can be seen on [Linkedin](https://www.linkedin.com/in/artemshar/) or ask me personally.
 
 ### 🔗 Links
 - [https://artemshar.space](https://artemshar.space/)
